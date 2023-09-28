@@ -64,10 +64,11 @@ Github Streak 
 
 
 ## My Stats
-<img src="https://telegra.ph/file/6d8d86167fa157d05c454.jpg" />
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=aw-coode&show_icons=true&theme=radical)
 
+
 ### Contact :
+<img src="https://telegra.ph/file/6d8d86167fa157d05c454.jpg" />
 <a href="https://t.me/AWCODE3"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aw.coode@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://youtube.com/@A_W_C"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
