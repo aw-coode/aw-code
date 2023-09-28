@@ -64,6 +64,7 @@ Github Streak 
 
 
 ## My Stats
+<img src="https://telegra.ph/file/6d8d86167fa157d05c454.jpg" />
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=aw-coode&show_icons=true&theme=radical)
 
 ### Contact :
