@@ -35,7 +35,7 @@ Github Streak 
 
 
 ## My Stats
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=DAXXSIR&show_icons=true&theme=radical)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=aw-coode&show_icons=true&theme=radical)
 
 ### Contact :
 <a href="https://t.me/AWCODE3"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
