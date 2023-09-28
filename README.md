@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 Github Streak 
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=DAXXSIR&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://DAXXSIR.me)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=aw-coode&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://DAXXSIR.me)
 
 ##  Languages and tools
 </br>
