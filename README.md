@@ -1,123 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-    <link rel="stylesheet" href="style.css">
-    <title> </title>
 
-    <style>
-        html::-webkit-scrollbar{
-        width: 0px;
-        height: 0px;
-    }
-    </style>
-
-</head>
-<body>
-
-    <header>
-        <a href="#" class="logo"> </a>
-        <nav class="navigation">
-            <a href="./ddd.html"></a>
-            <a href="./login.html"> </a>
-            <a href="./contact.html"></a>
-        </nav>
-    </header>
-
-
-    <section class="main">
-        <div>
-            <h2>&nbsp; ,   <br><span> </span></h2>
-            <h3>    
-                            
-  </p>
-  
-  
-<p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- </p>
-<p>
-  
-
-<p align="center">
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
-<br/><br/>
-</p>
- 
-
-
-<div align="center">
-  </h3>
-            
-    <a href="#projects" class="main-btn">  </a>
-    <a href="./service-web.html" class="main-btn"> </a>
-    <a href="./service-seo-Ar.html" class="main-btn"></a>
-    <a href="./service-social-Ar.html" class="main-btn"> </a>
-    <a href="./service-motion-Ar.html" class="main-btn"> </a>
-    <a href="./service-mobile-Ar.html" class="main-btn"> </a>
-    <a href="##" class="main-btn">CHAT GPT</a>
-   
-            <div class="social-icons">
-              <a href="https://www.facebook.com/profile.php?id=100089634320605&mibextid=ZbWKwL"><i class="fab fa-facebook-f"></i></a>
-              <a href="https://github.com/AlawiAlQurashi"><i class="fab fa-github"></i></a>
-              <a href="https://twitter.com/M00"><i class="fa-brands fa-twitter"></i></a>
-              <a href="https://www.youtube.com/A_W_C"><i class="fa-brands fa-youtube"></i></a>
-              <a href="https://www.instagram.com/uxxki/"><i class="fa-brands fa-instagram"></i></a>
-              <a href="https://t.me/ALAWE1"><i class="fab fa-telegram"></i></a>
-            </div>
-        </div>
-    </section>
-
-    <section class="cards" id="services">
-        <h2 class="title"> </h2>
-        <div class="content">
-            <div class="card">
-              <div class="project-image">
-          <img src="https://graph.org/file/3f82e871c2c048f3d455b.jpg" /> 
-                </div>
-                <div class="info">
-                    <h3>
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</h3>
-                </div>
-            </div>
-        <h2 class="title"></h2>
-        <div class="content">
-            <div class="card">
-          <div class="project-image">
-          <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" /> 
-                </div>
-                <div class="info">
-                    <h3></h3>
-                    <hr>
-                    <p> 
- <div class="social-icons">
- <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://telegra.ph/file/a7fb900d59e2270419f23.jpg"> <source media="(prefers-color-scheme: light)" srcset="https://graph.org/file/d1d31a56f7833013cf42b.jpg"> <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"> </picture>
+## welcome , to [AWCODE](https://t.me/AWCODE3)
+ FrontNet website programming
+ Website programming and design through the best programming expertise, where the latest programming languages are used, which makes it a fast website in terms of archiving and ease of use by customers.
+ <p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -143,90 +30,83 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-                </div>
-            </div>
-        </div>
-    </section>
-        <section class="projects" id="projects">
-        <h2 class="title"></h2>
-        <div class="content">
+
+<p align="center">
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+<br/><br/>
+
+ ### Contact :
+<a href="https://t.me/AWCODE3"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=aw.coode@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://youtube.com/@A_W_C"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://twitter.com/"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://facebook.com/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://instagram.com/uxxky"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-            <div class="project-card">
-                <div class="project-image">
-                    <img src="https://cdn.discordapp.com/attachments/955445491221528617/994316715167059999/unknown.png?size=4096" />
-                </div>
-                <div class="project-info">
-                    <p class="project-category"> </p>
-                    <strong class="project-title">
-                        <span>  </span>
-                        <a href="https://t.me/ALAWE1/portfolio-website/" class="more-details"> </a>
-              <div class="social-icons">
-              <a href="https://www.facebook.com/profile.php?id=100089634320605&mibextid=ZbWKwL"><i class="fab fa-facebook-f"></i></a>
-              <a href="https://github.com/AlawiAlQurashi"><i class="fab fa-github"></i></a>
-              <a href="https://twitter.com/M00"><i class="fa-brands fa-twitter"></i></a>
-              <a href="https://www.youtube.com/A_W_C"><i class="fa-brands fa-youtube"></i></a>
-              <a href="https://www.instagram.com/uxxki/"><i class="fa-brands fa-instagram"></i></a>
-              <a href="https://t.me/ALAWE1"><i class="fab fa-telegram"></i></a>
-            </div>
-        </div>
-    </section>
-                    </strong>
-                </div>
-            </div> 
-        </div>
-    </section>
-      <section class="projects" id="projects">
-        <h2 class="title">   </h2>
-        <div class="content">
-            <div class="card">
-               <script src="https://cdn.lordicon.com/bhenfmcm.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/iepbfivp.json"
-    trigger="hover"
-    colors="primary:#121331,secondary:#4bb3fd,tertiary:#ebe6ef"
-    style="width:250px;height:250px">
-</lord-icon>
-                </div>
-            </div>
-        </div>
-    </section>
 
 
-      <footer class="footer">
-        <p class="footer-title"> <span>  </span></p>
-        <div class="social-icons">
-               <a href="https://www.facebook.com/profile.php?id=100089634320605&mibextid=ZbWKwL"><i class="fab fa-facebook-f"></i></a>
-              <a href="https://github.com/AlawiAlQurashi"><i class="fab fa-github"></i></a>
-              <a href="https://twitter.com/M00"><i class="fa-brands fa-twitter"></i></a>
-              <a href="https://www.youtube.com/A_W_C"><i class="fa-brands fa-youtube"></i></a>
-              <a href="https://www.instagram.com/uxxki/"><i class="fa-brands fa-instagram"></i></a>
-      <div class="row">
-        <div class="col-lg-12">
-          <p class="copyright-text">2023 @ ALAWEALQURSHE &copy; </p>
-        </div>
-      </div>
+<!--
+**DAXXSIR/DAXXSIR** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
-    </div>
-    </div>
-    </footer>
-<!-- Default Statcounter code for web https://alawialaqurshi.github.io/web -->
-<script type="text/javascript">
-var sc_project=12848953; 
-var sc_invisible=0; 
-var sc_security="d21e90e6"; 
-var scJsHost = "https://";
-document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="Web Analytics Made Easy -
-Statcounter" href="https://statcounter.com/" target="_blank"><img
-class="statcounter" src="https://c.statcounter.com/12848953/0/d21e90e6/0/"
-alt="Web Analytics Made Easy - Statcounter"
-referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
-<!-- End of Statcounter Code -->
-<a href="https://statcounter.com/p12848953/?guest=1">View My Stats</a>
-</body>
-</html>
-</body>
-</html>
+
+
+<p align="center">
+    <b>ss</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/aw-coode/count.svg" />
+</p>
+<!---
+DAXXSIR/DAXXSIR is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=DAXXSIR&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://DAXXSIR.me)
+  
+
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAXXSIR&show_icons=true&locale=en&layout=compact" alt="DAXXSIR" /></p>
+
+
+Github Streak 
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=aw-coode&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://DAXXSIR.me)
+
+##  Languages and tools
+</br>
+
+[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,heroku,arduino,redis,mongodb,java,html,py,c,ts,js,deno,flutter,fastapi&perline=10)](https://daxxsir.me)
+
+
+
+## My Stats
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=aw-coode&show_icons=true&theme=radical)
+
+
+### Contact :
+<a href="https://twitter.com/##">
+  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/alawi-alqurshi">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/alawialqurshi">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/ALAWE1">
+  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/uxxki/">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100089634320605&mibextid=ZbWKwL">
+  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/@A_W_C/">
+  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<br/>
+<br/>
