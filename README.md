@@ -255,16 +255,28 @@ const ANONYMOUS U7P4L = {
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
 ### 📊 TOP REPOSITORY:
- <h3 align="center">
+### Contact :
+<a href="https://twitter.com/##">
+  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/alawi-alqurshi">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/alawialqurshi">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/ALAWE1">
+  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/uxxki/">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100089634320605&mibextid=ZbWKwL">
+  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/@A_W_C/">
+  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aw-coode&repo=Back-Up&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-   
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aw-coode&repo=Theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-  
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aw-coode&repo=Banner.PHP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)  
-  
- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aw-coode&repo=SET-UP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) 
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aw-coode&repo=INFECT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
- 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aw-coode&repo=SMS&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)  
+<br/>
+<br/>
