@@ -250,7 +250,7 @@ const ANONYMOUS U7P4L = {
 <h3 align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aw-coode&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=10" alt="GitHub language stats" width="400">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aw-coode&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=10" alt="GitHub language stats" width="400">
         </a>
     </div>
 
