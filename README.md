@@ -254,7 +254,7 @@ const ANONYMOUS U7P4L = {
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
-### 📊 TOP REPOSITORY:
+### 📧Feel free to write to me:
 ### Contact :
 <a href="https://twitter.com/##">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
