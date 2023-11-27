@@ -92,15 +92,15 @@ const ANONYMOUS U7P4L = {
 </div>
 
 
-<img src="https://github.com/ANONYMOUS-U7P4L/ANONYMOUS-U7P4L/blob/main/275750433_726130698764464_6531454219054912316_n.gif"/>
+<img src="https://github.com/aw-coode/aw-coode/blob/main/275750433_726130698764464_6531454219054912316_n.gif"/>
 
  <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 <h3 align="center">
  
-[![Instagram](https://img.shields.io/badge/IG-%40utpal_official-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/utpal_official)
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/utpal.xr)
+[![Instagram](https://img.shields.io/badge/IG-%40utpal_official-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/uxxki)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100089634320605&mibextid=ZbWKwL)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/utpal.xr)
-[![Github](https://img.shields.io/badge/Github-ANONYMOUS-U7P4Lgreen?style=for-the-badge&logo=github)](https://github.com/ANONYMOUS-U7P4L)
+[![Github](https://img.shields.io/badge/Github-ANONYMOUS-U7P4Lgreen?style=for-the-badge&logo=github)](https://github.com/aw-coode)
 
 #### 📊This Week I Spent My Time On:⏰🕜
 <h3 align="center">
@@ -224,7 +224,7 @@ const ANONYMOUS U7P4L = {
   
 ![ANONYMOUS-U7P4L](https://github-readme-streak-stats.herokuapp.com/?user=ANONYMOUS-U7P4L&theme=dark&hide_border=false)<br/>
 
-<a href="http://www.github.com/ANONYMOUS-U7P4L"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ANONYMOUS-U7P4L&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/aw-coode"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ANONYMOUS-U7P4L&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />  
   
