@@ -47,20 +47,15 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const ANONYMOUS U7P4L = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
+<b>
+
+Interested in hacking, teaching programming, hacking, cybersecurity courses, Linux, TriMix lessons, bots, and everything that concerns the world of technology and hackers.
+- Distribution of accounts
+- Teaching Trimix
+- Cyber ​​security courses
+- Linux hacking and distributions
+- Bots and application programming
+</b>
 
 
 </h1>
