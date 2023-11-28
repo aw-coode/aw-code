@@ -265,24 +265,9 @@ Interested in hacking, teaching programming, hacking, cybersecurity courses, Lin
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />  
   
   
-## 💰YOU CAN HELP ME BY DONATING
-<h3 align="center">
-
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/not.com) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/not.com) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/not.com) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/not.com) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-<!-- Contribution Snake -->
-![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Footer -->
-
-<img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+## Follow the news channel on Telegram💻
+ <p align="center"><a href="https://t.me/AWCODE3"> 
+<img src="https://graph.org/file/d1018753d9a85f46c2fe4.jpg" width="320" height="38.45"/></a></p>
 
 ### 📧Feel free to write to me:
 ### Contact :
